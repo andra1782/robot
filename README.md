@@ -12,4 +12,4 @@ Hardware:
 - Power Module 5V/3.3V
 - 5000mAh Mi Power bank
 
-Each file contains the code for a separate functionality. Arduino language (C++ based) was used to program the STM32 microcontroller. The ultrasound ranging sensors were used for obstacle detection and avoidance, the infrared reflective sensors for line following functionality and the speed encoders for allowing the robot to travel for fixed distances. The report explains each algorithm in detail. There are also video files of the line follower and obstacle avoidance.
+Each file contains the code for a separate functionality. Arduino language (C++ based) was used to program the STM32 microcontroller. The ultrasound ranging sensors were used for obstacle detection and avoidance, the infrared reflective sensors for line following functionality and the speed encoders for allowing the robot to travel for fixed distances. The report explains each algorithm in detail.
