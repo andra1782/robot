@@ -1,7 +1,5 @@
 /**
 * Student name: Andra Alazaroaie
-* Student number: 5518318
-*
 */
 
 #define MAX 150
