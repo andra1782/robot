@@ -1,7 +1,5 @@
 /**
-* Student name: Andra Alazaroaie
-* Student number: 5518318
-*
+* Name: Andra Alazaroaie
 */
 int a1 = PB3;
 int a2 = PA8;
