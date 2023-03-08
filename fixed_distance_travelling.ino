@@ -1,7 +1,5 @@
 /**
-* Student name: Andra Alazaroaie
-* Student number: 5518318
-*
+* Name: Andra Alazaroaie
 */
 #define PI 3.1415926535897932384626433832795
 #define MAX 150
